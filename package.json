@@ -1,0 +1,19 @@
+{
+  "name": "twitter-js",
+  "version": "1.0.0",
+  "description": "cool tweet app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/savvaspetridis/twitter-js"
+  },
+  "bugs": {
+    "url": "https://github.com/savvaspetridis/twitter-js/issues"
+  },
+  "homepage": "https://github.com/savvaspetridis/twitter-js"
+}
